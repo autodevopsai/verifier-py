@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "verifier"
 version = "0.1.0"
 description = "Python port of verifier CLI"
-authors = [{name = "AutoDevOps"}]
+authors = [{name = "social protocol labs"}]
 requires-python = ">=3.9"
 dependencies = [
     "typer>=0.9.0",
