@@ -32,3 +32,11 @@ To see the full list of commands and options, run:
 ```bash
 verifier --help
 ```
+
+## Contributors
+
+All contributions in this repository are attributed to:
+
+- social protocol labs
+
+See `CONTRIBUTORS.md` for the canonical list.
